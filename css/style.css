@@ -1,4 +1,15 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Colton
+* Created on: february 2023
 * This file contains the CSS for index.html
 */
+style
+#my-header {
+  background-color: black;
+  color: red;
+}
+p {
+background-color: red;
+}
+body {
+  background-color: red;
+}
